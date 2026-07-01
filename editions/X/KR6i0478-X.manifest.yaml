@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6i0478/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0478/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八大人覺經疏
+  identifiers:
+    krp: KR6i0478
+    cbeta: X37n0673
+    cbeta_old_id: X37n0673
+    authorityid: CA0000101
+    json_key: X0673
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0673.xml
+    old_id: X37n0673
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0478_000-X.yaml, hash: 'sha256:df22edb1744f0ccf428aa84cf60c1e80a72f4d0f1801d43136874b83b9ccc643'}
+  - {seq: 1, filename: KR6i0478_001-X.yaml, hash: 'sha256:4aacb7e84715bee036b7e3ecfe2e1ab195a293935619bea6dd40196d6d62711a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0478_000-X.markers.yaml, hash: 'sha256:fc57f3dd336e30d4b37ece2aea15ec72fdf52999878ff0feb8d13bc7a5a7355d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0478_001-X.markers.yaml, hash: 'sha256:2fd014242c87c408272b8aff213cd773f79f0bb8d6e25846d3d9e6eaa8bb30de'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0478_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 673-A 佛說八大人覺經疏序〔龍植〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0478_X_000-mulu-2
+    span:
+    - front
+    - 291
+    - 291
+  label: 佛說八大人覺經疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0478_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8083
+  label: 佛說八大人覺經疏
+  type: juan
+  level: 1
+hash: sha256:3e5311ea55a5a83191e4ae14cc5015cfd3f649f537a16f7fee3c99042eb4ca14
