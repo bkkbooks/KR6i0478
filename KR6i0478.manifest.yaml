@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0478_000.yaml, hash: 'sha256:1a22e136d9014ebc79253c4ac4f65b65ee97bce741485d3cf44602829e2a28bb'}
-  - {seq: 1, filename: KR6i0478_001.yaml, hash: 'sha256:28419be545a1603bd4ac20f289b27cd37278736530aad98dcab2ce972c4ab634'}
+  - {seq: 0, filename: KR6i0478_000.yaml, hash: 'sha256:df22edb1744f0ccf428aa84cf60c1e80a72f4d0f1801d43136874b83b9ccc643'}
+  - {seq: 1, filename: KR6i0478_001.yaml, hash: 'sha256:4aacb7e84715bee036b7e3ecfe2e1ab195a293935619bea6dd40196d6d62711a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0478_000.markers.yaml, hash: 'sha256:1dacf1e909f3e5aab7a127446797db65484087d819fe738244d2fb50dcfdb874'}
-  - {seq: 1, role: markers, filename: assets/KR6i0478_001.markers.yaml, hash: 'sha256:156b8b66961e7c7cd35d4caa6afccc4ea2d007ebfacba818a8d3abf57f79a312'}
+  - {seq: 0, role: markers, filename: assets/KR6i0478_000.markers.yaml, hash: 'sha256:9a726bbe36524933b88a51e1c635632826a83ee7038867c2b1ddd1bb777aabc1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0478_001.markers.yaml, hash: 'sha256:810409992defb8b8afd1a153ac027c673a4dfa5fb090d3da1357e32659a6823a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 佛說八大人覺經疏
   type: juan
   level: 1
-hash: sha256:151f0014c8df649ccbf42ddcf4e5c7be876453cc0e5fa0170a3db0b746612a36
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c045b605c4f3ddc578e38a4f635afc6cff4a6720cd889f5a2030514fb9350fe2
