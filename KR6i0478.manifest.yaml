@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0478_000.yaml, hash: 'sha256:7c99a4d641dd6e35ddf0efb9a628a8f902719a851d6a422e326129617cfd3a50'}
+  - {seq: 0, filename: KR6i0478_000.yaml, hash: 'sha256:c369a682cfec6d9c55de74416e0d0e84be27c82824cf68df2a885281325035f4'}
   - {seq: 1, filename: KR6i0478_001.yaml, hash: 'sha256:e51fa92009c6564cfd50e76077b3f90608ee48b2eb695ac913f5e0dda6094052'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0478_000.markers.yaml, hash: 'sha256:60f053c9e9a799ce466f330f17f9d9ca064455cd4203a178139a53001c3155b5'}
+  - {seq: 0, role: markers, filename: assets/KR6i0478_000.markers.yaml, hash: 'sha256:8981bb8530dbca119478044b4bd1b418bdb7f65716563b319502906e3acf2e13'}
   - {seq: 1, role: markers, filename: assets/KR6i0478_001.markers.yaml, hash: 'sha256:1eb6b038e51ae1f2e69c7e7edb0c8e8ffa95fe892718da507edb434a7ccfd483'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0478_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 673-A 佛說八大人覺經疏序〔龍植〕
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0478_X_000-mulu-2
     span:
-    - front
+    - body
     - 291
     - 291
   label: 佛說八大人覺經疏
@@ -57,7 +57,7 @@ table_of_contents:
   label: 佛說八大人覺經疏
   type: juan
   level: 1
-hash: sha256:63feab795db94aa6555f9c6744b8a26278846b95a655e8562f1a65811da765b7
+hash: sha256:1e801d6ae2ea6592c836f321de694ee4286dc7d10dc99e0b3135d82502cc9830
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
